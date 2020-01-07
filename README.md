@@ -1,4 +1,4 @@
-# strollmoron
+# Strollmoron
 Spatio-temporal Representations for Life-long Mobile Robot Navigation
 
 The project aims to develop methods for spatio-temporal environment mapping and vision-based life-long localization and navigation.
